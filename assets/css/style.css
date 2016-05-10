@@ -1,0 +1,34 @@
+body{
+	font-family:Courier;
+}
+a{
+	background-color:yellow;
+}
+a:hover{
+	background-color:blue;
+}
+a:visited{
+	color:blue;
+}
+nav a {
+	color: red;
+}
+
+h1{
+	font-size:20pt;
+}
+
+h2{
+	font-size:30pt;
+}
+h3{
+	size:40pt;
+}
+
+ul.list{
+	font-family:"Comic Sans";
+}
+
+p#Troll{
+	font-size:50pt;
+}
